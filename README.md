@@ -4,7 +4,7 @@
 
 ### Minecraft
 
-1. Nusipirkti ir parsisiųsti Minecraft JAVA versiją iš https://www.minecraft.net/en-us. Pasikartosiu, JAVA, ne bedrock. Nepirkit bedrock, trash.
+1. Nusipirkti (Galite pirkti is [Eneba](https://www.eneba.com/lt/other-minecraft-java-edition-pc-official-website-key-global-8). Panaudokite koda PERKSLT, del 10% nuolaidos. Jeigu nenorit iš čia pirkt, tai galima daryti ir iš minecraft svetainės) ir parsisiųsti Minecraft JAVA versiją iš https://www.minecraft.net/en-us. Pasikartosiu, JAVA, ne bedrock. Nepirkit bedrock, trash.
 2. Parsisiuntus, pasileiskit minecraft launcher, prisijunkite prie savo paskyros. Galutinis vaizdas, turėtų atrodyti šitaip:
 ![Alt text](image-2.png)
 
